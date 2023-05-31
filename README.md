@@ -1,4 +1,4 @@
-# StudyJavaScript
+# Study JavaScript
 Studying JavaScript for Coding Test
 
 1. Codes</br>
